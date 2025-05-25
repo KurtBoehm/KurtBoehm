@@ -1,6 +1,6 @@
 ## Hi there 🦆
 
-I’m Kurt Böhm, a PhD student at TU Clausthal’s Institute of Mathematics in the research group on Scientific Computing with a Master’s degree in Computer Science.
+I’m Kurt Böhm, a PhD student at TU Clausthal’s Institute of Mathematics in the research group on Scientific Computing led by Olaf Ippisch with a Master’s degree in Computer Science.
 
 My current work focuses on [Lineal](https://github.com/KurtBoehm/lineal), an efficient parallel linear algebra library written in modern C++, as well as other C++ libraries connected to it (such as [Thesauros](https://github.com/KurtBoehm/thesauros)).
 Some of my other projects include [`pysemco`](https://github.com/KurtBoehm/pysemco), a Python library for semantic code highlighting, [a collection of LaTeX packages](https://github.com/KurtBoehm/latex-packages) (including one for code highlighting using `pysemco`), and [Illuminata](https://github.com/KurtBoehm/Illuminata) (in reference to [Pentiment](https://en.wikipedia.org/wiki/Pentiment_(video_game))), a high-quality PDF viewer designed for presentations.
